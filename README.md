@@ -1,4 +1,4 @@
 test-repo
 =========
 
-Test Repository
+Test Repository creaed for The Data Scientist's Toolbox course.
